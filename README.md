@@ -6,17 +6,14 @@ adaptados a las necesidades específicas de cada cliente. En SoftLutions, transf
 brindando soluciones tecnológicas innovadoras que impulsan el crecimiento y la eficiencia empresarial
 
 # **Curso**
-Gestion de la Configuracion de Software
+Verificación y Validación de Software
 
 # **Docente**  
-Lenis Rossi Wong Portillo  
+Wilder Alex Inga Lopez
 
 # **Integrantes:** 
-* Callupe Huamán, Germán
-* Jimenez Castañeda, Luis
-* Tomayquispe Ramos, Jorge Luis
-* Macchiavello Pérez, Oscar
-* Calle Ramos, Guillermo
-* Medina Garay, Rodrigo Matías
-* Coronado Cortez, Jéferson
-* Cjuno Chacca, Roggelio
+* Roddy Pérez Acosta
+* Alex Cancio Bedon
+* Pablo Mendoza Meza
+* Robert Ramos Manero
+
